@@ -3,8 +3,8 @@ Desarrollo Orientado a Objetos I – Semana 3
 Autor del proyecto
 
 Nombre completo: Bárbara Constanza Fuentes Verdugo.
-Sección: [Tu sección]
-Carrera: AnalistaProgramador Computacional.
+Sección: I_005A
+Carrera: Analista Programador Computacional.
 Sede:** OnLine
 
 ---
@@ -20,13 +20,13 @@ El proyecto permite modelar personas vinculadas a la organización mediante clas
 Estructura general del proyecto
 
 src
-├── app
-│   └── Main.java
-│
-└── model
-    ├── Persona.java
-    ├── Direccion.java
-    └── GuiaTuristico.java
+*app:
+Main.java
+
+*model:
+Persona.java
+Direccion.java
+GuiaTuristico.java
 
 Descripción de clases
 
@@ -72,9 +72,9 @@ Instrucciones para ejecutar el proyecto
 
 ---
 
-## 🔗 Repositorio GitHub
+Repositorio GitHub
 
-[Pegar aquí el enlace del repositorio]
+https://github.com/bafuentesv-a11y/LlanquihueTour.git
 
 ---
 
