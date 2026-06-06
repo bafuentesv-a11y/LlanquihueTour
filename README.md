@@ -5,7 +5,7 @@ Autor del proyecto
 Nombre completo: Bárbara Constanza Fuentes Verdugo.
 Sección: I_005A
 Carrera: Analista Programador Computacional.
-Sede:** OnLine
+Sede: OnLine
 
 ---
 
