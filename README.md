@@ -80,6 +80,4 @@ https://github.com/bafuentesv-a11y/LlanquihueTour.git
 
 Fecha de entrega
 
-[Completar fecha de entrega]
-
 07/06/2026
